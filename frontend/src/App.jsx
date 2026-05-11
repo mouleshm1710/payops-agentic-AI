@@ -31,14 +31,19 @@ function App() {
     deductions: [],
     highRisk: [],
   });
+  const [analyticsLoading, setAnalyticsLoading] = useState(false);
 
   useEffect(() => {
-    loadAnalytics();
-  }, []);
+    if (activeTab === "payroll") {
+      loadAnalytics();
+    }
+  }, [activeTab]);
 
   const loadAnalytics = async () => {
     try {
-      const [exceptions, overtime, tickets, deductions,highRisk] = await Promise.all([
+      setAnalyticsLoading(true);
+
+      const [exceptions, overtime, tickets, deductions, highRisk] = await Promise.all([
         getPayrollExceptions(),
         getOvertimeTrends(),
         getTicketStatus(),
@@ -55,6 +60,8 @@ function App() {
       });
     } catch (error) {
       console.error("Analytics load failed", error);
+    } finally {
+      setAnalyticsLoading(false);
     }
   };
 
@@ -336,6 +343,10 @@ function App() {
                 value={analytics.deductions.length}
               />
             </section>
+
+            {analyticsLoading && (
+              <p style={styles.emptyText}>Loading latest payroll operations data...</p>
+            )}
 
             <section style={styles.tableSection}>
                 <div style={styles.cardHeader}>
