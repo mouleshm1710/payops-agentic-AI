@@ -166,7 +166,7 @@ function App() {
             <header style={styles.topbar}>
               <div>
                 <p style={styles.eyebrow}>Enterprise Agentic AI Platform</p>
-                <h1 style={styles.title}>Payroll Operations Copilot</h1>
+                <h1 style={styles.title}>Payroll Resolution & Support Hub</h1>
                 <p style={styles.subtitle}>
                   Resolve payroll queries, retrieve policy context, and visualize
                   agent workflow execution.
@@ -717,6 +717,7 @@ const styles = {
     color: "white",
     padding: "13px 15px",
     borderRadius: "18px 18px 4px 18px",
+    fontSize: "13px",
   },
   aiBubble: {
     maxWidth: "78%",
@@ -725,6 +726,7 @@ const styles = {
     padding: "13px 15px",
     borderRadius: "18px 18px 18px 4px",
     boxShadow: "0 8px 22px rgba(15,23,42,0.06)",
+    fontSize: "13px",
   },
   employeeTag: {
     fontSize: "12px",
@@ -735,6 +737,7 @@ const styles = {
     margin: "8px 0 0",
     lineHeight: 1.65,
     whiteSpace: "normal",
+    fontSize: "13px",
   },
   messageMeta: {
     display: "flex",
@@ -754,7 +757,7 @@ const styles = {
     padding: "13px",
     borderRadius: "15px",
     border: "1px solid #cbd5e1",
-    fontSize: "14px",
+    fontSize: "13px",
     resize: "vertical",
     outline: "none",
     boxSizing: "border-box",
@@ -821,6 +824,7 @@ const styles = {
   },
     tableSection: {
     marginTop: "24px",
+    marginBottom: "40px",
   },
 
   tableWrapper: {
