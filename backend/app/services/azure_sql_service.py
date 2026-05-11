@@ -15,18 +15,19 @@ from app.config import (
 def get_sql_engine():
     params = urllib.parse.quote_plus(
         f"DRIVER={{ODBC Driver 18 for SQL Server}};"
-        f"SERVER={AZURE_SQL_SERVER};"
+        f"SERVER=tcp:{AZURE_SQL_SERVER},1433;"
         f"DATABASE={AZURE_SQL_DATABASE};"
         f"UID={AZURE_SQL_USERNAME};"
         f"PWD={AZURE_SQL_PASSWORD};"
         f"Encrypt=yes;"
-        f"TrustServerCertificate=no;"
-        f"Connection Timeout=30;"
+        f"TrustServerCertificate=yes;"
+        f"Connection Timeout=180;"
     )
 
     return create_engine(
         f"mssql+pyodbc:///?odbc_connect={params}",
         pool_pre_ping=True,
+        pool_recycle=300
     )
 
 
