@@ -41,9 +41,8 @@ def extract_employee_id(user_question: str):
 
 def run_query(query: str, params: dict | None = None):
     try:
+        engine = get_sql_engine()
         df = pd.read_sql(text(query), engine, params=params or {})
-
-        # Convert NaN / inf values into JSON-safe None
         df = df.replace([np.nan, np.inf, -np.inf], None)
 
         return {

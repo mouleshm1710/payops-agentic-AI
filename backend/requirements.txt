@@ -10,6 +10,3 @@ azure-search-documents
 langchain
 langchain_openai
 langgraph
-tiktoken
-faiss-cpu
-sentence-transformers
