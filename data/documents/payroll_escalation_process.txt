@@ -1,0 +1,19 @@
+PAYROLL ESCALATION PROCESS
+
+Purpose:
+This SOP explains how payroll issues should be escalated and resolved.
+
+Level 1: Employee Self-Service
+Employees should first review pay statements, timesheets, PTO balances, and HR portal records.
+
+Level 2: Manager Review
+If the issue involves hours, overtime, schedule, or PTO approval, the employee should contact their manager for validation.
+
+Level 3: Payroll Operations
+Payroll operations investigates deduction issues, tax withholding, missing payments, direct deposit issues, and payroll calculation errors.
+
+Level 4: HR Operations
+HR operations reviews policy interpretation, leave eligibility, benefits eligibility, and employee classification questions.
+
+SLA Guidance:
+Standard payroll tickets should be reviewed within 2-3 business days. Urgent missing payment cases may require same-day review.

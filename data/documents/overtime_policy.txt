@@ -1,0 +1,23 @@
+OVERTIME POLICY
+
+Purpose:
+This policy defines overtime eligibility, approval requirements, and payroll treatment.
+
+Eligibility:
+Non-exempt full-time and part-time employees are eligible for overtime when hours worked exceed applicable thresholds. Standard overtime is typically calculated at 1.5 times the regular hourly rate.
+
+Approval Requirement:
+Overtime should be approved by the employee's manager before payroll processing. Overtime without approval may be flagged for payroll review and may require manager validation.
+
+Common Reasons for Overtime Review:
+- Missing or late timesheets
+- Manager approval pending
+- Hours submitted after payroll cutoff
+- Schedule mismatch
+- Exception triggered by unusually high hours
+
+Payroll Impact:
+Approved overtime is included in the regular pay cycle. Pending or rejected overtime may delay or reduce overtime payment until reviewed.
+
+Escalation:
+Employees should contact their manager first for approval-related questions and payroll operations for payment calculation questions.

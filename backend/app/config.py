@@ -1,0 +1,15 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+AZURE_SQL_SERVER = os.getenv("AZURE_SQL_SERVER")
+AZURE_SQL_DATABASE = os.getenv("AZURE_SQL_DATABASE")
+AZURE_SQL_USERNAME = os.getenv("AZURE_SQL_USERNAME")
+AZURE_SQL_PASSWORD = os.getenv("AZURE_SQL_PASSWORD")
+
+AZURE_SEARCH_ENDPOINT = os.getenv("AZURE_SEARCH_ENDPOINT")
+AZURE_SEARCH_KEY = os.getenv("AZURE_SEARCH_KEY")
+AZURE_SEARCH_INDEX = os.getenv("AZURE_SEARCH_INDEX")

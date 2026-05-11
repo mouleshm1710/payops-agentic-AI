@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+agentic_env/
+venv/
+
+.env
+
+.ipynb_checkpoints/
+
+data/
+notebooks/

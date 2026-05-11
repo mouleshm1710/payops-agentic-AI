@@ -1,0 +1,251 @@
+employee_id,employee_name,department,job_title,location_state,employment_type,manager_id,annual_salary,hourly_rate,benefits_plan,hire_date
+E0001,Michelle Elliott,Warehouse,Statistician,CA,Full-Time,M008,54850,26.37,Standard,2021-08-31
+E0002,Donna Martin,Finance,Research scientist (maths),FL,Full-Time,M003,109131,52.47,None,2025-08-12
+E0003,Clifford Brown,Operations,Ambulance person,TX,Full-Time,M008,57433,27.61,Basic,2026-02-11
+E0004,Leslie Newton,IT,Financial planner,FL,Full-Time,M014,139987,67.3,Standard,2024-11-29
+E0005,Benjamin Stephens,Sales,Health visitor,CO,Full-Time,M025,117435,56.46,Standard,2023-01-25
+E0006,Jenny Morgan,Warehouse,Planning and development surveyor,CA,Full-Time,M005,52502,25.24,Standard,2025-10-13
+E0007,Crystal Peterson,Customer Support,Aeronautical engineer,CO,Full-Time,M013,42612,20.49,Basic,2026-02-28
+E0008,Norma Huerta,HR,Public relations officer,FL,Part-Time,M009,69541,33.43,Basic,2024-11-03
+E0009,Christopher Smith,Warehouse,Data scientist,CO,Full-Time,M013,47692,22.93,Basic,2024-11-03
+E0010,Gerald Kerr,IT,Chartered accountant,FL,Full-Time,M012,101557,48.83,Standard,2022-03-29
+E0011,Michael Moran,Warehouse,"Engineer, electronics",TX,Full-Time,M025,60823,29.24,Premium,2025-11-18
+E0012,Alicia Anderson,Operations,Community development worker,CO,Part-Time,M013,78247,37.62,Premium,2023-04-19
+E0013,Joshua Lyons,Sales,"Teacher, primary school",CA,Full-Time,M006,101214,48.66,Premium,2023-02-10
+E0014,Stephanie Suarez,HR,Building control surveyor,CA,Full-Time,M023,57695,27.74,Basic,2024-01-16
+E0015,Donna Gallagher,IT,Physiological scientist,FL,Full-Time,M024,78561,37.77,Standard,2023-09-25
+E0016,Christopher Brown,Finance,Mudlogger,CA,Full-Time,M021,73392,35.28,Standard,2021-11-09
+E0017,William Browning,Warehouse,Telecommunications researcher,CO,Full-Time,M008,62538,30.07,Basic,2026-01-08
+E0018,Tamara Spencer,Customer Support,Secondary school teacher,CA,Full-Time,M003,63769,30.66,Standard,2023-10-22
+E0019,Joy Bradley,IT,Telecommunications researcher,CA,Part-Time,M007,96518,46.4,None,2024-10-12
+E0020,Amy Smith,Sales,Technical brewer,NY,Part-Time,M005,68141,32.76,Premium,2021-12-18
+E0021,Madison Gould,Finance,Air broker,FL,Full-Time,M018,98827,47.51,Premium,2021-12-12
+E0022,Shelby Perez,Warehouse,"Nurse, adult",FL,Full-Time,M013,54157,26.04,Premium,2023-11-01
+E0023,Danny Malone,Finance,Further education lecturer,TX,Contractor,M017,0,45.0,None,2022-01-31
+E0024,Jennifer Stevens,Operations,Land/geomatics surveyor,CO,Part-Time,M005,56306,27.07,Standard,2023-06-14
+E0025,Russell Fritz,Customer Support,Dance movement psychotherapist,FL,Full-Time,M003,69355,33.34,None,2021-05-12
+E0026,Jeffrey Owen,Sales,Dancer,NY,Full-Time,M017,111087,53.41,Premium,2023-08-02
+E0027,Anna Parks DVM,IT,Industrial buyer,CO,Part-Time,M022,76636,36.84,Basic,2024-05-23
+E0028,Mark Adams,Warehouse,Land/geomatics surveyor,CA,Part-Time,M025,43855,21.08,Premium,2023-05-27
+E0029,Kelly Barnes,Operations,"Sound technician, broadcasting/film/video",TX,Full-Time,M015,76556,36.81,Basic,2023-07-31
+E0030,Keith Gonzales,Warehouse,Insurance claims handler,CA,Part-Time,M017,57315,27.56,Standard,2022-06-27
+E0031,Jennifer Hill,IT,Interpreter,CA,Contractor,M021,0,114.0,Standard,2026-03-15
+E0032,Kelli Zuniga,Finance,Horticultural consultant,TX,Full-Time,M018,91370,43.93,Basic,2022-06-28
+E0033,Christopher Williams,IT,Patent attorney,CO,Full-Time,M004,76734,36.89,Premium,2022-06-15
+E0034,Gina Williams,Customer Support,Energy manager,TX,Part-Time,M002,48155,23.15,Standard,2022-03-04
+E0035,Ann Tran MD,IT,"Scientist, marine",CO,Contractor,M024,0,60.0,None,2023-01-05
+E0036,Kevin Montes,Customer Support,"Nurse, mental health",FL,Full-Time,M025,54589,26.24,Standard,2021-09-26
+E0037,Chris Marquez,Finance,Armed forces technical officer,FL,Full-Time,M006,94855,45.6,Premium,2025-01-05
+E0038,Michael Bishop,IT,Counsellor,NY,Part-Time,M007,130349,62.67,Standard,2024-09-17
+E0039,Brandon Jones,Warehouse,Call centre manager,CA,Full-Time,M015,58583,28.16,None,2026-03-08
+E0040,James Webb,Operations,Consulting civil engineer,CO,Full-Time,M011,57557,27.67,Basic,2022-09-15
+E0041,Philip Quinn,IT,Marine scientist,FL,Full-Time,M008,125108,60.15,Basic,2022-01-20
+E0042,Brian Figueroa,Operations,Quantity surveyor,CO,Full-Time,M008,79736,38.33,Basic,2022-03-26
+E0043,Kenneth Walker,Operations,Adult nurse,CO,Part-Time,M017,88986,42.78,Standard,2024-07-06
+E0044,Karen Barker,HR,"Surveyor, building",TX,Full-Time,M018,61893,29.76,Standard,2022-05-10
+E0045,Thomas Richardson,Warehouse,"Conservator, furniture",FL,Contractor,M019,0,108.0,None,2024-07-19
+E0046,Charles Golden,Finance,Careers information officer,NY,Part-Time,M007,94124,45.25,Basic,2022-08-04
+E0047,Stephen Ellison,Operations,Clinical embryologist,CA,Full-Time,M014,63208,30.39,None,2026-01-31
+E0048,Tony Holland,Sales,Emergency planning/management officer,CO,Part-Time,M022,50301,24.18,Basic,2025-12-04
+E0049,Nicole Keller,Operations,"Engineer, building services",CA,Full-Time,M004,55699,26.78,Standard,2024-11-21
+E0050,Tina Ortiz,Finance,"Editor, film/video",NY,Full-Time,M005,99584,47.88,None,2022-08-17
+E0051,Allison Carpenter,Finance,Mining engineer,TX,Full-Time,M003,69014,33.18,None,2025-07-23
+E0052,Chad Ford,Customer Support,Clinical research associate,FL,Part-Time,M004,52533,25.26,Basic,2026-04-07
+E0053,John Boyd,Warehouse,Chiropractor,CO,Contractor,M003,0,104.0,Standard,2023-07-29
+E0054,Benjamin Mcdaniel,Finance,"Surveyor, rural practice",NY,Full-Time,M007,89376,42.97,None,2025-10-07
+E0055,Taylor Thornton,Operations,Audiological scientist,CO,Full-Time,M013,59495,28.6,Premium,2022-08-27
+E0056,Timothy Colon,Customer Support,Illustrator,CA,Part-Time,M014,62677,30.13,None,2024-08-23
+E0057,Benjamin Huynh,Finance,Research scientist (maths),TX,Full-Time,M002,96024,46.17,Basic,2022-02-24
+E0058,Scott Ward,Warehouse,Software engineer,CO,Full-Time,M019,54388,26.15,None,2022-09-21
+E0059,Timothy White,IT,"Civil engineer, consulting",FL,Contractor,M006,0,96.0,Basic,2023-06-26
+E0060,Louis Johnson,IT,Historic buildings inspector/conservation officer,TX,Full-Time,M003,112945,54.3,Basic,2022-12-24
+E0061,Martin Edwards,Warehouse,"Producer, radio",NY,Part-Time,M004,39150,18.82,Standard,2023-05-06
+E0062,Christina Romero,IT,IT technical support officer,FL,Full-Time,M003,135193,65.0,None,2021-05-13
+E0063,Kelsey Ramirez,Warehouse,Publishing copy,FL,Full-Time,M011,47662,22.91,Premium,2025-02-22
+E0064,Cameron Sutton,Finance,"Civil engineer, contracting",CA,Full-Time,M008,84531,40.64,Premium,2021-07-19
+E0065,Larry Long,Sales,Theatre stage manager,CA,Full-Time,M015,101293,48.7,Premium,2021-06-26
+E0066,Christopher Moyer,Customer Support,Plant breeder/geneticist,CO,Contractor,M015,0,67.0,Basic,2023-08-11
+E0067,Ricky Rodgers,Operations,Product/process development scientist,FL,Full-Time,M009,78049,37.52,Standard,2023-09-05
+E0068,Lisa Lin,HR,"Designer, graphic",TX,Part-Time,M012,64540,31.03,Premium,2022-09-17
+E0069,Kimberly Cook,Finance,Town planner,FL,Full-Time,M023,94168,45.27,Premium,2022-10-29
+E0070,David Zimmerman,IT,Barista,FL,Contractor,M001,0,56.0,Premium,2022-12-13
+E0071,Olivia Cooley,Warehouse,Psychotherapist,TX,Full-Time,M009,58491,28.12,Basic,2025-09-27
+E0072,Mr. Gregory Roberson,Operations,Professor Emeritus,TX,Full-Time,M009,58373,28.06,Premium,2026-04-01
+E0073,Jamie Friedman,IT,Osteopath,CA,Full-Time,M007,132458,63.68,Premium,2022-04-08
+E0074,Krista Arellano,IT,"Civil engineer, consulting",CO,Full-Time,M003,101092,48.6,None,2024-10-24
+E0075,Christine Farrell,Customer Support,Food technologist,CO,Full-Time,M011,51657,24.84,Standard,2024-05-09
+E0076,William Lynn,Warehouse,Claims inspector/assessor,TX,Contractor,M024,0,68.0,None,2021-08-31
+E0077,Bianca Meyers,IT,Chiropodist,FL,Full-Time,M001,119811,57.6,Basic,2025-07-31
+E0078,Julie Hanna,Operations,"Production assistant, radio",TX,Contractor,M018,0,106.0,Basic,2025-12-03
+E0079,Jason Short,Customer Support,Cabin crew,FL,Full-Time,M005,47400,22.79,None,2025-09-16
+E0080,Steven Taylor,Finance,Air broker,CA,Full-Time,M002,101939,49.01,Premium,2023-03-20
+E0081,Jordan Kelley,Finance,"Therapist, nutritional",CO,Full-Time,M012,70486,33.89,None,2024-07-11
+E0082,Steven King,IT,Animator,TX,Full-Time,M006,96689,46.49,Standard,2026-03-29
+E0083,Sharon Taylor,Sales,Chief Operating Officer,CA,Full-Time,M014,56801,27.31,Standard,2024-02-21
+E0084,Kayla Steele,HR,Therapeutic radiographer,CO,Full-Time,M013,90307,43.42,Basic,2024-10-30
+E0085,Tiffany Gilbert,Customer Support,Interpreter,TX,Full-Time,M015,49580,23.84,Premium,2025-06-22
+E0086,Lisa Buchanan,HR,"Lecturer, further education",TX,Part-Time,M008,81256,39.07,Basic,2023-09-09
+E0087,Peter Reyes,Warehouse,"Surveyor, minerals",CA,Full-Time,M009,44588,21.44,Basic,2026-03-09
+E0088,Mary Wright,Customer Support,Ambulance person,FL,Full-Time,M013,44748,21.51,Premium,2023-10-28
+E0089,Helen Hughes,Operations,"Accountant, chartered",CA,Full-Time,M006,76233,36.65,Premium,2022-11-01
+E0090,Billy Armstrong,Operations,Geochemist,NY,Full-Time,M012,80470,38.69,Premium,2022-09-08
+E0091,Craig Lawson,Sales,Chartered loss adjuster,FL,Full-Time,M004,117641,56.56,None,2024-06-09
+E0092,Roy Haas,IT,Ship broker,CO,Full-Time,M023,86003,41.35,None,2024-10-04
+E0093,Timothy Carey,Operations,Herbalist,FL,Full-Time,M022,85354,41.04,Standard,2024-01-30
+E0094,Julian Graves,HR,"Scientist, forensic",CA,Full-Time,M020,79504,38.22,Premium,2025-09-02
+E0095,Nathaniel Martin,Warehouse,Economist,CA,Part-Time,M017,58852,28.29,Premium,2024-07-26
+E0096,Nicole Maxwell,Warehouse,"Engineer, communications",NY,Full-Time,M023,42964,20.66,Premium,2022-09-28
+E0097,Charles Underwood,IT,Phytotherapist,NY,Full-Time,M022,131254,63.1,None,2024-06-25
+E0098,Julie Medina,Warehouse,Warden/ranger,TX,Full-Time,M020,62098,29.85,Premium,2023-02-18
+E0099,Dr. David Morgan,Sales,Professor Emeritus,CO,Full-Time,M010,115545,55.55,Premium,2023-01-26
+E0100,Frank Bates,Finance,Sales promotion account executive,FL,Full-Time,M020,102892,49.47,Premium,2024-01-29
+E0101,Raymond Fischer,Sales,Accommodation manager,TX,Full-Time,M017,56970,27.39,None,2024-10-14
+E0102,Benjamin Wise,Customer Support,"Radiographer, therapeutic",TX,Contractor,M022,0,99.0,Basic,2023-03-13
+E0103,Julia Rice,HR,Best boy,FL,Full-Time,M011,73384,35.28,Basic,2023-05-18
+E0104,Jeffrey Williams,Customer Support,IT consultant,TX,Contractor,M022,0,61.0,Premium,2025-08-10
+E0105,Aaron Davis,Finance,Manufacturing systems engineer,TX,Part-Time,M001,82100,39.47,Basic,2021-08-12
+E0106,Tara Warren,Finance,Science writer,FL,Contractor,M025,0,49.0,Basic,2025-01-01
+E0107,Haley Wolfe,Sales,Customer service manager,FL,Full-Time,M007,103871,49.94,None,2024-04-20
+E0108,Sarah Nelson,Sales,Press sub,TX,Full-Time,M021,87441,42.04,Basic,2023-04-04
+E0109,Michael Gonzalez,Customer Support,Brewing technologist,CO,Part-Time,M025,48017,23.09,None,2021-08-28
+E0110,Gabriella Barker,Finance,Advertising account executive,FL,Full-Time,M015,90934,43.72,Basic,2023-02-10
+E0111,Elizabeth Davis,IT,Oncologist,CO,Full-Time,M015,131882,63.4,Standard,2024-02-06
+E0112,Heather White,Customer Support,Ranger/warden,FL,Full-Time,M018,67169,32.29,Premium,2025-10-21
+E0113,Beth Kidd,Customer Support,Fisheries officer,FL,Part-Time,M024,68714,33.04,None,2024-11-30
+E0114,Maria Andrews,Customer Support,Water quality scientist,NY,Contractor,M006,0,119.0,None,2025-10-25
+E0115,Russell Walker,Sales,"Engineer, production",TX,Full-Time,M021,108243,52.04,Premium,2021-08-24
+E0116,Noah Lynch,Customer Support,Speech and language therapist,NY,Part-Time,M021,68732,33.04,Standard,2021-11-08
+E0117,Vanessa Perez,HR,Human resources officer,CA,Full-Time,M008,76508,36.78,Premium,2022-11-29
+E0118,Krista Schneider,HR,Advertising account planner,FL,Full-Time,M003,82693,39.76,Standard,2022-12-14
+E0119,Jason Hamilton,Finance,Fashion designer,TX,Full-Time,M023,88624,42.61,Standard,2021-06-06
+E0120,Victoria Burgess,Operations,Emergency planning/management officer,CA,Full-Time,M018,65478,31.48,None,2023-04-19
+E0121,Daniel Gomez,Sales,Mudlogger,NY,Full-Time,M013,50055,24.06,Basic,2022-11-18
+E0122,Justin Austin,Customer Support,"Nurse, mental health",FL,Part-Time,M013,46809,22.5,None,2023-07-17
+E0123,Gregory Ramos,Operations,"Engineer, production",CA,Contractor,M025,0,62.0,None,2022-12-12
+E0124,Robert Villanueva,Customer Support,Analytical chemist,NY,Part-Time,M018,45750,22.0,Standard,2024-03-23
+E0125,Christopher Phillips,Sales,Farm manager,NY,Full-Time,M016,100448,48.29,Basic,2024-01-26
+E0126,Nicholas Montgomery,Sales,"Therapist, sports",NY,Full-Time,M024,56168,27.0,Standard,2024-12-23
+E0127,Amber Ramsey,Customer Support,Adult guidance worker,TX,Full-Time,M020,47943,23.05,Basic,2025-02-08
+E0128,Isaiah Alexander,Sales,Maintenance engineer,CO,Full-Time,M003,110004,52.89,None,2025-03-26
+E0129,Stephanie Hunt,Finance,Furniture designer,TX,Part-Time,M002,75167,36.14,Premium,2025-12-17
+E0130,Carolyn Johnson,Sales,"Administrator, sports",NY,Full-Time,M011,77139,37.09,Premium,2023-03-20
+E0131,Vincent Hardin,Customer Support,"Copywriter, advertising",CA,Part-Time,M025,64818,31.16,None,2025-10-04
+E0132,Austin Ramos,HR,Purchasing manager,NY,Part-Time,M001,64111,30.82,Basic,2026-02-20
+E0133,Karen Reed,HR,Chief Marketing Officer,CO,Full-Time,M025,77350,37.19,Basic,2022-07-30
+E0134,Robert Higgins,Customer Support,Tour manager,TX,Full-Time,M007,53746,25.84,Basic,2023-10-19
+E0135,Ann Harrison,IT,Diagnostic radiographer,TX,Full-Time,M016,117101,56.3,Basic,2021-11-24
+E0136,Eileen Small,IT,Public affairs consultant,NY,Contractor,M023,0,47.0,Premium,2026-02-14
+E0137,Lacey Gardner,Customer Support,"Research officer, trade union",FL,Full-Time,M020,58444,28.1,Basic,2023-07-26
+E0138,James Diaz,Customer Support,Gaffer,CA,Part-Time,M004,59216,28.47,Basic,2023-07-26
+E0139,Hunter Pacheco,HR,"Engineer, production",NY,Full-Time,M013,87293,41.97,Standard,2023-11-07
+E0140,Darren Fleming,Operations,Adult nurse,TX,Full-Time,M004,72988,35.09,Premium,2023-07-15
+E0141,Kyle Matthews,Customer Support,Volunteer coordinator,CO,Full-Time,M019,68219,32.8,Basic,2021-11-08
+E0142,William Gordon,HR,Commercial art gallery manager,CA,Full-Time,M003,63007,30.29,Premium,2025-05-14
+E0143,Barbara Hayes,Operations,Solicitor,NY,Part-Time,M004,76204,36.64,None,2024-12-26
+E0144,Angela Koch,HR,Aid worker,NY,Full-Time,M023,69060,33.2,Standard,2025-11-30
+E0145,Adam Solomon,Sales,Editorial assistant,FL,Full-Time,M021,68574,32.97,Premium,2025-09-04
+E0146,Evan Smith,IT,Advertising copywriter,FL,Part-Time,M025,101727,48.91,None,2022-03-26
+E0147,Karla Taylor,Sales,Museum/gallery curator,FL,Full-Time,M009,74519,35.83,Premium,2024-08-13
+E0148,William Scott,Customer Support,"Clinical scientist, histocompatibility and immunogenetics",CO,Full-Time,M009,40922,19.67,None,2025-06-09
+E0149,Mary Woods,Finance,"Engineer, automotive",FL,Part-Time,M020,75789,36.44,None,2024-10-05
+E0150,James Martinez,HR,"Surveyor, insurance",CA,Full-Time,M006,87265,41.95,None,2022-01-05
+E0151,Daniel Bryant,Finance,Risk manager,CA,Full-Time,M011,71371,34.31,Premium,2022-12-19
+E0152,Dr. Paul Andersen DVM,IT,Arts development officer,CA,Full-Time,M018,95609,45.97,Basic,2022-06-19
+E0153,Cheryl Pierce,IT,"Therapist, speech and language",CO,Contractor,M008,0,116.0,None,2024-03-14
+E0154,Lori Woods,Sales,Manufacturing systems engineer,TX,Full-Time,M023,52443,25.21,None,2023-07-22
+E0155,Ethan Dunn,Warehouse,Customer service manager,NY,Full-Time,M001,45147,21.71,Basic,2022-11-28
+E0156,Nicole Camacho,HR,Personnel officer,TX,Full-Time,M010,55126,26.5,Premium,2021-11-22
+E0157,Brian Ortiz,Sales,"Embryologist, clinical",CA,Full-Time,M014,53797,25.86,Premium,2022-06-13
+E0158,Mrs. Linda Allison,HR,"Teacher, early years/pre",CA,Full-Time,M010,91244,43.87,Premium,2023-04-24
+E0159,Brittany Snow,Finance,Local government officer,TX,Full-Time,M011,100840,48.48,Basic,2023-03-18
+E0160,Aaron Johnson,Warehouse,Television/film/video producer,TX,Full-Time,M007,44456,21.37,Standard,2025-10-19
+E0161,Glen Sims,Warehouse,International aid/development worker,FL,Full-Time,M025,39625,19.05,Premium,2022-11-28
+E0162,Jennifer Neal,Operations,Occupational therapist,CA,Part-Time,M008,62973,30.28,Premium,2023-04-02
+E0163,Anne Evans,Finance,"Lecturer, higher education",FL,Full-Time,M005,106914,51.4,Premium,2026-03-28
+E0164,Sara Weaver,Operations,Proofreader,FL,Contractor,M010,0,93.0,Standard,2023-06-03
+E0165,Elizabeth Hunt,Warehouse,Furniture designer,NY,Part-Time,M004,59566,28.64,Basic,2024-10-07
+E0166,Alisha Gibson,IT,Event organiser,NY,Full-Time,M015,101838,48.96,Premium,2024-09-27
+E0167,Diana Fleming,Finance,Make,CA,Contractor,M016,0,74.0,Basic,2023-10-09
+E0168,Kyle Berry,Customer Support,Theme park manager,NY,Full-Time,M003,55534,26.7,Basic,2025-09-06
+E0169,Tiffany Allen,Finance,Clinical embryologist,FL,Full-Time,M010,71645,34.44,Basic,2025-09-21
+E0170,Taylor Franklin,Finance,"Surveyor, hydrographic",NY,Full-Time,M020,105806,50.87,Standard,2022-05-19
+E0171,Christopher Gill,Customer Support,Midwife,NY,Full-Time,M015,56380,27.11,Premium,2021-10-12
+E0172,Kimberly George,Customer Support,"Pilot, airline",NY,Full-Time,M010,64160,30.85,Basic,2023-04-06
+E0173,Sarah Robinson,IT,Town planner,CO,Contractor,M025,0,76.0,Standard,2025-11-08
+E0174,Robert Davis,Warehouse,Dispensing optician,CO,Full-Time,M006,52289,25.14,Standard,2021-12-28
+E0175,Erica Holt,Finance,Higher education lecturer,TX,Full-Time,M001,81032,38.96,None,2022-08-05
+E0176,Michael Lopez,Sales,Exhibition designer,NY,Full-Time,M010,92880,44.65,Basic,2024-01-03
+E0177,Michael Harris,Finance,IT sales professional,CA,Full-Time,M023,102609,49.33,None,2024-01-08
+E0178,Garrett Bauer,Operations,Merchant navy officer,CA,Full-Time,M021,62083,29.85,Standard,2022-12-04
+E0179,Christopher Preston MD,Sales,Adult guidance worker,TX,Full-Time,M021,87599,42.11,Standard,2025-01-04
+E0180,Kevin Ruiz,HR,English as a second language teacher,CO,Part-Time,M002,90367,43.45,Standard,2022-04-09
+E0181,Jeremy Lee,Customer Support,Museum/gallery conservator,FL,Full-Time,M010,68500,32.93,None,2025-05-07
+E0182,Corey Cooper,Operations,Dentist,CA,Full-Time,M023,81665,39.26,None,2023-12-20
+E0183,Jodi Schmidt,HR,Associate Professor,NY,Full-Time,M015,71725,34.48,Basic,2025-10-23
+E0184,Mike Wright,IT,"Optician, dispensing",NY,Full-Time,M024,130288,62.64,Premium,2021-11-15
+E0185,Joel Mitchell,IT,Television production assistant,CO,Full-Time,M008,126833,60.98,Basic,2025-06-01
+E0186,David Farrell,Customer Support,Set designer,CA,Full-Time,M019,61799,29.71,Basic,2023-01-31
+E0187,Terrance Morrison,Customer Support,"Accountant, chartered certified",NY,Part-Time,M017,57717,27.75,None,2024-09-07
+E0188,Erik Wagner,HR,Rural practice surveyor,FL,Full-Time,M014,57711,27.75,None,2025-03-26
+E0189,Jennifer Walter,Operations,"Therapist, speech and language",NY,Full-Time,M011,76792,36.92,Premium,2023-09-20
+E0190,Leah Sanchez,Warehouse,Records manager,TX,Full-Time,M011,45617,21.93,None,2021-07-17
+E0191,Kyle Krause,Warehouse,Chiropractor,NY,Full-Time,M025,39240,18.87,Basic,2024-04-24
+E0192,Jaime Alvarez,Sales,"Optician, dispensing",CA,Full-Time,M011,74354,35.75,Basic,2024-08-31
+E0193,Thomas Lewis,Customer Support,Medical laboratory scientific officer,FL,Full-Time,M001,67691,32.54,None,2024-11-18
+E0194,Sharon Solomon,Sales,Control and instrumentation engineer,FL,Full-Time,M012,71520,34.38,None,2022-05-27
+E0195,Cassandra Clark,Warehouse,Nutritional therapist,CO,Full-Time,M007,50254,24.16,Premium,2025-05-26
+E0196,John Coleman,IT,"Investment banker, corporate",CA,Full-Time,M015,80319,38.61,None,2023-02-22
+E0197,Elizabeth Pittman,Operations,Waste management officer,FL,Full-Time,M008,66918,32.17,Standard,2024-07-07
+E0198,Pamela Sparks,HR,"Civil engineer, consulting",FL,Full-Time,M014,74541,35.84,Basic,2025-05-10
+E0199,Roger Banks,Finance,"Engineer, manufacturing systems",CO,Contractor,M015,0,83.0,Basic,2023-12-03
+E0200,Jennifer Stewart,Warehouse,Medical secretary,NY,Part-Time,M023,62077,29.84,Premium,2023-05-12
+E0201,Stephanie Atkinson,IT,"Scientist, physiological",NY,Full-Time,M016,106705,51.3,None,2025-04-01
+E0202,Lori Smith,Finance,Structural engineer,TX,Full-Time,M013,105998,50.96,Standard,2022-10-06
+E0203,Craig Le,IT,Primary school teacher,TX,Full-Time,M003,75545,36.32,Premium,2025-03-17
+E0204,Cynthia Fox,Customer Support,Media buyer,NY,Part-Time,M011,47206,22.7,Premium,2024-03-20
+E0205,Joe West,Customer Support,Chief Financial Officer,CA,Full-Time,M019,59895,28.8,None,2023-01-04
+E0206,Cheryl Lopez,Customer Support,"Psychologist, counselling",FL,Full-Time,M016,60819,29.24,Premium,2025-02-16
+E0207,Rebecca Browning,HR,Barrister,FL,Full-Time,M013,87733,42.18,None,2024-07-17
+E0208,Carrie Horton,HR,Oncologist,TX,Part-Time,M019,87913,42.27,None,2024-03-08
+E0209,Tracy Anderson,Finance,Psychotherapist,NY,Part-Time,M002,80152,38.53,Premium,2025-07-22
+E0210,Jeffrey Jones,Warehouse,"Scientist, research (maths)",NY,Full-Time,M013,46202,22.21,Standard,2023-03-10
+E0211,Jessica Thompson,Sales,"Horticulturist, commercial",TX,Contractor,M017,0,107.0,Premium,2022-06-15
+E0212,Dr. Patricia Mercado,Customer Support,Acupuncturist,NY,Full-Time,M004,54199,26.06,None,2025-10-07
+E0213,Justin Haas,Operations,Musician,NY,Full-Time,M021,70876,34.08,Standard,2025-11-13
+E0214,Christian Pearson,Operations,"Conservation officer, nature",CA,Full-Time,M011,73297,35.24,None,2021-07-26
+E0215,Mr. Paul Miller DDS,Warehouse,Chief of Staff,CA,Full-Time,M022,59260,28.49,None,2025-06-09
+E0216,Kelsey Goodwin,HR,Museum/gallery conservator,NY,Full-Time,M018,92443,44.44,Basic,2021-09-21
+E0217,Ryan Lynn MD,IT,"Administrator, local government",CA,Full-Time,M008,92602,44.52,Basic,2025-09-19
+E0218,Christian Melton,Sales,Chief Technology Officer,CO,Contractor,M015,0,103.0,Standard,2025-09-11
+E0219,Peter Jones,Warehouse,Artist,CO,Full-Time,M002,59754,28.73,Premium,2023-06-13
+E0220,Lisa Stevenson,Customer Support,"Designer, blown glass/stained glass",CA,Full-Time,M012,60420,29.05,None,2021-08-05
+E0221,Daniel Anderson,Finance,Conference centre manager,NY,Full-Time,M019,103001,49.52,Standard,2025-07-05
+E0222,Nathan Reynolds,Finance,Copy,FL,Full-Time,M013,95561,45.94,Standard,2022-02-25
+E0223,Gabrielle Frazier,Sales,Chemical engineer,TX,Contractor,M008,0,107.0,None,2023-06-24
+E0224,Pamela Jensen,Warehouse,Film/video editor,CA,Full-Time,M022,54940,26.41,Basic,2024-04-06
+E0225,Danielle Cameron,Customer Support,"Designer, jewellery",CA,Full-Time,M022,49766,23.93,Standard,2025-10-17
+E0226,Maria Long,Operations,"Education officer, community",CA,Full-Time,M019,81705,39.28,Premium,2024-10-27
+E0227,Cynthia Mcfarland,Warehouse,Firefighter,CA,Contractor,M015,0,79.0,Premium,2023-06-20
+E0228,Andrew Faulkner,Finance,Make,NY,Contractor,M004,0,107.0,Standard,2021-09-06
+E0229,Christopher King,Sales,"Engineer, civil (contracting)",FL,Full-Time,M010,76660,36.86,Premium,2023-12-08
+E0230,Lindsay Jacobs,Operations,Retail buyer,NY,Contractor,M009,0,109.0,Basic,2022-06-05
+E0231,David Peters,IT,Accommodation manager,CO,Part-Time,M020,112567,54.12,None,2026-01-24
+E0232,Yolanda Santiago,Customer Support,Building control surveyor,CA,Contractor,M025,0,55.0,Standard,2026-03-04
+E0233,Barbara Bishop,IT,Chartered management accountant,TX,Part-Time,M021,104241,50.12,Standard,2022-10-21
+E0234,Jonathan Miller,IT,Aid worker,TX,Full-Time,M021,98650,47.43,Basic,2022-07-05
+E0235,Crystal Herrera,Warehouse,Veterinary surgeon,CA,Full-Time,M015,56207,27.02,Basic,2025-04-20
+E0236,Elizabeth Burns,IT,"Buyer, industrial",TX,Full-Time,M003,127930,61.5,Premium,2025-05-14
+E0237,David Foster,HR,Armed forces technical officer,TX,Full-Time,M007,88756,42.67,Standard,2023-10-04
+E0238,Christopher Mora,Customer Support,"Nurse, mental health",CA,Full-Time,M017,52155,25.07,Premium,2021-06-01
+E0239,Joann Castro,Customer Support,Fish farm manager,NY,Full-Time,M010,48984,23.55,Premium,2022-04-25
+E0240,Amy Schaefer,Customer Support,"Programmer, applications",CO,Full-Time,M005,41607,20.0,Standard,2022-04-30
+E0241,Brittney Alexander,Customer Support,"Editor, film/video",NY,Full-Time,M018,48782,23.45,Premium,2024-12-22
+E0242,Debra Horton,Operations,Media planner,CO,Part-Time,M009,72434,34.82,Basic,2024-09-14
+E0243,Krista Chapman,Sales,"Engineer, production",CA,Full-Time,M019,50526,24.29,None,2026-01-21
+E0244,Emily Martinez,Customer Support,Editorial assistant,CA,Full-Time,M004,45797,22.02,Standard,2024-09-07
+E0245,Sandra Gill,Sales,Chief Marketing Officer,FL,Full-Time,M011,104615,50.3,Standard,2021-07-21
+E0246,Anthony James,Warehouse,Artist,NY,Full-Time,M023,55773,26.81,Premium,2025-11-05
+E0247,Elizabeth Hall,Warehouse,Veterinary surgeon,TX,Full-Time,M002,56427,27.13,Basic,2025-04-07
+E0248,Christine Turner DVM,HR,Personnel officer,CO,Contractor,M004,0,90.0,Standard,2023-07-14
+E0249,Jonathan Petty,IT,Clinical molecular geneticist,NY,Full-Time,M012,110488,53.12,None,2026-02-17
+E0250,Patricia Porter,IT,Control and instrumentation engineer,TX,Full-Time,M014,93333,44.87,Basic,2024-04-22

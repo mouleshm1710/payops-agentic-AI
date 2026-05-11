@@ -1,0 +1,19 @@
+
+Company Payroll Policy
+
+Employees are paid on a semi-monthly basis. Payroll is processed after timesheets, overtime records, bonuses, and deductions are validated.
+
+Overtime Policy:
+Full-time and part-time employees are eligible for overtime when they work more than 40 hours in a week. Overtime must be approved by the employee's manager before payroll processing. Unapproved overtime should be flagged for review before payment.
+
+Benefits Deduction Policy:
+Employees enrolled in Basic, Standard, or Premium benefits plans will have deductions applied each pay period. Employees with no benefits plan should not have benefits deductions.
+
+Bonus Policy:
+Bonuses must be approved by HR and Finance before payroll processing. Duplicate bonus entries should be flagged as high-risk payroll exceptions.
+
+Payroll Exception Policy:
+Payroll records should be reviewed when there are unusual overtime hours, negative deductions, duplicate bonuses, missing approvals, or major net pay changes compared with prior pay periods.
+
+Employee Query Policy:
+The payroll assistant may explain paycheck differences using payroll records and company policy. The assistant should not make final payroll changes. Any uncertain or disputed case must be escalated to HR or payroll specialists.

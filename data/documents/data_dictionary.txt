@@ -1,0 +1,17 @@
+PAYROLL AI SYSTEM DATA DICTIONARY
+
+employees:
+Contains employee profile data including employee_id, employee_name, department, location, employment_type, hire_date, and hourly_rate.
+
+payroll_enriched:
+Contains payroll transaction and risk-enriched records including payroll_id, employee_id, pay_period_end, hours_worked, overtime_hours, gross_pay, deductions, net_pay, anomaly_type, risk_score, and risk_level.
+
+payroll_tickets:
+Contains employee payroll support tickets including ticket_id, employee_id, payroll_id, ticket_reason, ticket_status, priority, created_date, and resolution_notes.
+
+manager_approvals:
+Contains payroll approval workflow data including approval_id, employee_id, payroll_id, approval_type, approval_status, submitted_date, and manager_comments.
+
+Common joins:
+employees.employee_id joins to payroll_enriched.employee_id, payroll_tickets.employee_id, and manager_approvals.employee_id.
+payroll_enriched.payroll_id joins to payroll_tickets.payroll_id and manager_approvals.payroll_id.
