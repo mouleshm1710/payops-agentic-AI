@@ -4,6 +4,8 @@ An enterprise-grade AI-powered payroll operations platform built using FastAPI, 
 
 The platform helps employees and HR operations teams resolve payroll-related issues using AI-driven reasoning, policy retrieval, workflow orchestration, and operational analytics dashboards.
 
+<img width="940" height="1233" alt="image" src="https://github.com/user-attachments/assets/366e52dc-635d-4fd2-90ff-ec96f1d2ca90" />
+
 ---
 
 # Project Overview
